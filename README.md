@@ -1,3 +1,13 @@
+# Docker Image
+
+https://hub.docker.com/r/ys659/assignment14
+
+# Testing
+
+```
+$ pytest
+```
+
 # 📦 Project Setup
 
 ---
